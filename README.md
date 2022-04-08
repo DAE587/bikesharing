@@ -1,5 +1,6 @@
 # NYC CitiBike Analysis
 (tableau)
 
-SEE the "word" doc in this repository for a detailed write-up
+SEE the "Module 14 Challenge Write-UP" docx file in this repository for a detailed write-up
+
 
