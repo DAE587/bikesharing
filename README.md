@@ -46,11 +46,11 @@ User% by Gender: This confirms most users are male. I changed this graph from nu
 Average Trip Duration by Age: In the module we did this graph by birthyear.  I thought calculating the age would be a better view. While reviewing the data I found dubious data, such as users over 100 years old. So, I filtered for ages to only include those under 70 thinking it would be more informative. I also exclude the “unknown” gender type as I did in the previous chart to be consistent. 
 
 
-## Summary:
+# Summary:
 
 From our analysis of the New York Citi data for a single month (Aug 2019) we could identify interesting usage trends and make some conclusion about how the CitiBike business operates in New York.
 
- #    Results of NYC Analysis:
+ ##    Results of NYC Analysis:
  
 	      Most users have a monthly subscription for usage, indicating probably that they are frequent 	if not daily users.
         
@@ -61,7 +61,7 @@ From our analysis of the New York Citi data for a single month (Aug 2019) we cou
         
   However, before we can decide to move forward with the idea of opening a similar business in Des Moines, we should do additional analysis of the data and gather       additional data. We should look at several months to see if the trends in August are reoccurring throughout the year. It would also be helpful to understand the       geography of where the CitiBike locations are located and what is nearby.
   
-  #  Suggested Additional Analysis:
+  ##  Suggested Additional Analysis:
   
 	    Use the Latitude and Longitude information from the NYC data to determine, origin 	destination and distances of each trip.
   
